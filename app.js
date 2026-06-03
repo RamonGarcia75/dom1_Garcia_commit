@@ -1,4 +1,5 @@
 // 1. Selección de elementos del DOM
+console.log("Práctica de DOM e Inicio de Git - Juan Ramón García Morales");
 const emailInput = document.getElementById('emailInput');
 const btnGenerar = document.getElementById('btnGenerar');
 const resultadoContenedor = document.getElementById('resultadoContenedor');
